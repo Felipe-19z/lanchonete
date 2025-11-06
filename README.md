@@ -1,18 +1,18 @@
 # lanchonete
 
-Coloque a pasta "lanchonete" no htdocs
-ANTES de iniciar o programa, Procure um arquivo chamado "lanchonete.sql" (Não está na pasta do admin)
-importe o arquivo "lanchonete.sql" para o "PHPMYADMIN"
-^^ OBS: Vai aparecer um monte de coisa, Verifique as seguintes opções:
-Conjunto de caracteres do arquivo: > utf-8
-Importação parcial: > 0
-Outras opções: > Habilitado
-Formato: SQL
-Opções específicas de formato: > NONE
+Coloque a pasta "lanchonete" no htdocs //
+ANTES de iniciar o programa, Procure um arquivo chamado "lanchonete.sql" (Não está na pasta do admin) //
+importe o arquivo "lanchonete.sql" para o "PHPMYADMIN" //
+^^ OBS: Vai aparecer um monte de coisa, Verifique as seguintes opções: //
+Conjunto de caracteres do arquivo: > utf-8 //
+Importação parcial: > 0 //
+Outras opções: > Habilitado //
+Formato: SQL //
+Opções específicas de formato: > NONE //
 
-Após verificar tudo, so apertar importar
+Após verificar tudo, so apertar importar //
 
-Não esqueça de tirar o arquivo "lanchonete.sql" da pasta do "projeto1" para dar nenhum erro
+Não esqueça de tirar o arquivo "lanchonete.sql" da pasta do "projeto1" para dar nenhum erro //
 
 Agora vamos para o resumo do projeto:
 1 - Alteração na pagina publica e do admin //
