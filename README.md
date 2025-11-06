@@ -1,2 +1,3 @@
 # lanchonete
-projeto PHP
+
+Coloque a pasta "lanchonete" no htdocs
